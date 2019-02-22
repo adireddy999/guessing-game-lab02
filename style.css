@@ -1,0 +1,17 @@
+html{
+    background-position: center;
+    background-size: cover;
+    background-image: url("puppy.jpg");
+    min-height:100%;
+}
+
+.home{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(88, 40, 5);
+}
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(88,40,5);
+}
